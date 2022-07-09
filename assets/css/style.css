@@ -1,0 +1,67 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    margin: 0px;
+    background-color: #ED661F;
+}
+#bar1{
+    background-color: black;
+    display: flex;
+    color: antiquewhite;
+    /*justify-content: center;*/
+    clear: both;
+    width: 100%;
+    height: 200px;
+
+}
+#navbar{
+    width: 800px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    margin-left: 400px;
+    /*position: absolute;*/
+    /*transform: translate(0, -50%);*/
+    justify-content: space-between;
+    
+}
+.logo{
+    /*float: left;*/
+    margin-left: 10px;
+    align-items: center;
+    align-content: center;
+    margin-top: 4.0%;
+}
+#login{
+    float: inline-end;
+    display: flex;
+    align-items: center;
+    margin-right: 10px;
+    margin-left: 300px;
+    width: 150px;
+    justify-content: space-between;
+}
+#BUT1{
+    background-color: orangered;
+    color: antiquewhite;
+    border-style: none;
+    font-family: 'Popins', sans-serif;
+    font-weight: bold;
+    height: 40px;
+}
+#Home:hover{
+    border-bottom: 3px solid orangered;
+}
+#About:hover{
+    border-bottom: 3px solid orangered;
+}
+#Products:hover{
+    border-bottom: 3px solid orangered;
+}
+#Contact_Us:hover{
+    border-bottom: 3px solid orangered;
+}
+#Login:hover{
+    border-bottom: 3px solid orangered;
+}
