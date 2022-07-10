@@ -239,3 +239,19 @@ img{
     height: 250px;
     width: 250px;
 }
+#See{
+    border-bottom: solid orangered 3px;
+}
+#BUT4{
+    margin-left: 1600px;
+    height: 40px;
+    font-size: xx-large;
+    border: none;
+    background-color: white;
+}
+#new{
+    border-bottom: solid orangered 3px; 
+}
+#bar8{
+    background-color: white;
+}
