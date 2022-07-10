@@ -65,3 +65,11 @@ body{
 #Login:hover{
     border-bottom: 3px solid orangered;
 }
+#bar2{
+    /*background-image: url(/assets/images/image_1.png);*/
+    height: 750px;
+}
+img{
+    height: 100%;
+    width: 100%;
+  }
