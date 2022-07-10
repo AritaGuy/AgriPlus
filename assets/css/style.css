@@ -248,10 +248,16 @@ img{
     font-size: xx-large;
     border: none;
     background-color: white;
+    margin-bottom: 30px;
 }
 #new{
     border-bottom: solid orangered 3px; 
 }
 #bar8{
     background-color: white;
+}
+#bar9{
+    height: 25px;
+    border-top: solid 3px grey;
+    background-color: lightgray;
 }
