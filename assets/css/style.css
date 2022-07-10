@@ -176,8 +176,8 @@ img{
     margin-top: -25px;
 }
 #k{
-    height: 200px;
-    width: 200px;
+    height: 250px;
+    width: 250px;
     margin-left: 370px;
 }
 #kk{
@@ -194,20 +194,20 @@ img{
     
 }
 #t{
-    height: 200px;
-    width: 200px;
-    margin-left: 200px;
-    clear: left;
+    height: 250px;
+    width: 250px;
+    margin-left: 150px;
+    
 
 }
 #f{
-    height: 200px;
-    width: 200px;
+    height: 250px;
+    width: 250px;
     margin-left: 200px;
 }
 #c{
-    height: 200px;
-    width: 200px;
+    height: 250px;
+    width: 250px;
     position: absolute;
    
 }
@@ -227,4 +227,15 @@ img{
 }
 #carrots{
     margin-right: 15px;
+}
+#bar7{
+    background-color: white;
+    width: 100%;
+    height: 550px;
+    display: block;
+    margin-top: -25px;
+}
+#r{
+    height: 250px;
+    width: 250px;
 }
