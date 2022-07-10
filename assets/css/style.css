@@ -28,10 +28,11 @@ body{
 }
 .logo{
     /*float: left;*/
-    margin-left: 10px;
+    margin-left: 20px;
     align-items: center;
     align-content: center;
     margin-top: 4.0%;
+    font-size: xxx-large;
 }
 #login{
     float: inline-end;
@@ -68,8 +69,68 @@ body{
 #bar2{
     /*background-image: url(/assets/images/image_1.png);*/
     height: 750px;
+    position: relative;
 }
 img{
     height: 100%;
     width: 100%;
+    position: absolute;
+    top: 0;
+    
   }
+#image2{
+    height: 500px;
+    width: 1000px;
+    float: right;
+    position: relative;
+    top: 30px;
+    
+}
+.bar2{
+    float: left;
+    position: relative;
+    display: block;
+    height: 80%;
+    width: 40%;
+    margin-top: 100px;
+}
+#BUT2{
+    background-color: orangered;
+    color: antiquewhite;
+    border-style: none;
+    font-family: 'Popins', sans-serif;
+    font-weight: bold;
+    height: 70px;
+    width: 300px;
+    font-size: x-large;
+}
+#b{
+    margin-left: 30px;
+    height: 30px;
+}
+.b200{
+    display: block;
+    padding-left: 30px;
+   
+}
+.c105{
+    display: block;
+    
+}
+.d2000{
+    display: block;
+    padding-right: 30px;
+    
+}
+#bar3{
+    display: flex;
+    width: 800px;
+    justify-content: space-between;
+    text-align: center;
+    background-color: aliceblue;
+    position: relative;
+    top: -100px;
+    height: 150px;
+    margin-left: 830px;
+    align-items: center;
+}
