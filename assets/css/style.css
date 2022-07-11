@@ -302,11 +302,13 @@ img{
     display: flex;
     width: 200px;
     height: 100px;
-    justify-content: space-between;
+    justify-content: space-around;
+    align-items: center;
   }
   #rect11{
     height: 40px;
     width: 40px;
+    position: relative;
   }
   #in_touch{
     background-color: black;
