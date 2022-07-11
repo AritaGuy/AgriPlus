@@ -308,3 +308,29 @@ img{
     height: 40px;
     width: 40px;
   }
+  #in_touch{
+    background-color: black;
+    color: white;
+    height: 300px;
+    width: 100%;
+    text-align: center;
+    margin-top: -25px;
+    padding-top: 40px;
+  }
+  #txtbox{
+    display: flex;
+    margin-left: 700px;
+  }
+  #BUT5{
+    background-color: orangered;
+    color: antiquewhite;
+    border-style: none;
+    font-family: 'Popins', sans-serif;
+    font-weight: bold;
+    height: 46px;
+  }
+  #txtbox1{
+    height: 40px;
+    width: 400px;
+    align-items: center;
+  }
