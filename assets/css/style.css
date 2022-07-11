@@ -261,3 +261,40 @@ img{
     border-top: solid 3px grey;
     background-color: lightgray;
 }
+.clip-star {
+    background: orangered;
+    clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
+    display: inline-block;
+    height: 60px;
+    width: 70px;
+  }
+  #bar10{
+  align-items: center;
+  background: white;
+  display: flex;
+  height: 100px;
+  width: 350px;
+  justify-content: center;
+  }
+  #bar11{
+    height: 600px;
+    width: 100%;
+    background-color: white;
+    display: flex;
+    margin-top: 30px;
+    justify-content: space-between;
+
+  }
+  #bar11-1{
+    height: 400px;
+    width: 400px;
+    margin-left: 30px;
+    box-shadow: 5px 10px 8px #888888;
+    font-size: large;
+    margin-right: 30px;
+  }
+  #feedback{
+    display: block;
+    background-color: white;
+    margin-top: -23px;
+  }
